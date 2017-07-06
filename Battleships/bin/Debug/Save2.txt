@@ -1,0 +1,13 @@
+p vs. k
+PlayerBoards
+xoAAAABBBBxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxPPxxxxxxxxxxxxxxxxxxxxxxDxxxSxxxxxDxxxSxxxxxDxxxSxxxxxxxx
+mPPxxxxxxxxxxxxxxxxxxxxBBBBxxDxAxxxxxxxDxAxxxxxxxDxAxxxxxxxxxAxxxxxxxxxAxxxxxxxxxxxxxSSSxxxxxxxxxxxx
+HitCounts
+0
+1
+MovesTaken
+a1  
+a2  
+p
+k
+p a1 Miss.k a2 Hit.

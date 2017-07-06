@@ -1,0 +1,13 @@
+Alex vs. Sam
+PlayerBoards
+ABSoPxxxxxABSDPxxxxxABSDxxxxxxAoxxxxxxxxAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+oBSDPxxxxxoBSDPxxxxxABSDxxxxxxABxxxxxxxxAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+HitCounts
+16
+2
+MovesTaken
+a1 b1  
+a4 d2  
+Alex
+Sam
+

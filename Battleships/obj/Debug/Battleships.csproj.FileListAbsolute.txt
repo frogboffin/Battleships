@@ -1,0 +1,18 @@
+C:\Users\Peter\Documents\VS projects\Battleships\Battleships\bin\Debug\Battleships.exe.config
+C:\Users\Peter\Documents\VS projects\Battleships\Battleships\bin\Debug\Battleships.exe
+C:\Users\Peter\Documents\VS projects\Battleships\Battleships\bin\Debug\Battleships.pdb
+C:\Users\Peter\Documents\VS projects\Battleships\Battleships\obj\Debug\Battleships.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\VS projects\Battleships\Battleships\obj\Debug\Battleships.exe
+C:\Users\Peter\Documents\VS projects\Battleships\Battleships\obj\Debug\Battleships.pdb
+F:\Battleships\Battleships\bin\Debug\Battleships.exe.config
+F:\Battleships\Battleships\obj\Debug\Battleships.exe
+F:\Battleships\Battleships\obj\Debug\Battleships.pdb
+F:\Battleships\Battleships\obj\Debug\Battleships.csprojResolveAssemblyReference.cache
+F:\Battleships\Battleships\bin\Debug\Battleships.exe
+F:\Battleships\Battleships\bin\Debug\Battleships.pdb
+E:\Users\Peter\Documents\FORGBUFFIN BACKUP\Battleships\Battleships\bin\Debug\Battleships.exe.config
+E:\Users\Peter\Documents\FORGBUFFIN BACKUP\Battleships\Battleships\obj\Debug\Battleships.exe
+E:\Users\Peter\Documents\FORGBUFFIN BACKUP\Battleships\Battleships\obj\Debug\Battleships.pdb
+E:\Users\Peter\Documents\FORGBUFFIN BACKUP\Battleships\Battleships\bin\Debug\Battleships.exe
+E:\Users\Peter\Documents\FORGBUFFIN BACKUP\Battleships\Battleships\bin\Debug\Battleships.pdb
+E:\Users\Peter\Documents\FORGBUFFIN BACKUP\Battleships\Battleships\obj\Debug\Battleships.csprojResolveAssemblyReference.cache

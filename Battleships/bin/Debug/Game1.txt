@@ -1,0 +1,14 @@
+Peter vs. John
+
+ A  o  S  D  P  x  x  x  x  x 
+ A  B  S  D  P  x  x  x  x  x 
+ A  B  S  D  x  x  x  x  x  x 
+ A  B  x  x  x  x  x  x  x  x 
+ A  x  x  x  x  x  x  x  x  x 
+ x  x  x  x  x  x  x  x  x  x 
+ x  x  x  x  x  x  x  x  x  x 
+ x  x  x  x  x  x  x  x  x  x 
+ x  x  x  x  x  x  x  x  x  x 
+ x  x  x  x  x  x  x  x  x  x 
+
+

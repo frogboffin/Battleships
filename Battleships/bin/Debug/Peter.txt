@@ -1,0 +1,10 @@
+P vs. L
+PlayerBoards
+ooSDoxxxxxABSDoxxxxxABSDxxxxxxABxxxxxxxxAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+oBSDPxxxxxoBSDPxxxxxoBSDxxxxxxoBxxxxxxxxAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+HitCounts
+4
+4
+MovesTaken
+a1 b1 c1 d1  
+a1 a2 a5 b5 

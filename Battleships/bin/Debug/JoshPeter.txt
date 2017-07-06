@@ -1,0 +1,13 @@
+Peter vs. Josh
+PlayerBoards
+mxxxxxxxxxxAAAAAxxxxxBxxxPPxxxxBxxmomxxxxBxxxoxxxxxBSSSoxxmxxxmxxxxxxxxmxxmxxxxxxxxxxxxxmxxmxxxxxxxx
+mxxxxxmxxxxxxxxSSSxxxxxxxxxxxxxmBBBBAxxmxxxxmxAxxxxxxxxxAxxxxxxxxxAxxxxxmxxxAxxxxxxxxxxxmxoooooxxxxx
+HitCounts
+5
+3
+MovesTaken
+e5 i9 h3 a1 d10 d2 a7 j2 j3 j4 j5 j1  
+d7 a1 d6 d5 e6 f6 g3 h5 i9 f9 j2 h2  
+Peter
+Josh
+Peter e5 Miss.Josh d7 Miss.Peter i9 Miss.Josh a1 Miss.Peter h3 Miss.Josh d6 Hit.Peter a1 Miss.Josh d5 Miss.Peter d10 Miss.Josh e6 Hit.Peter d2 Miss.Josh f6 Hit.Peter a7 Miss.Josh g3 Miss.Peter j2 Hit.Josh h5 Miss.Peter j3 Hit.Josh i9 Miss.Peter j4 Hit.Josh f9 Miss.Peter j5 Hit.Josh j2 Miss.Peter j1 Hit.Josh h2 Miss.

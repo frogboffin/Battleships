@@ -1,0 +1,13 @@
+Peter vs. Robot
+PlayerBoards
+ABSDPxxxxxAoSDPxxxxxABSDxxxxxxABxxxxxxmmAxxxxxxxxxxxxxxxxmxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxmxxxxxxxxxxx
+moAAoABBBBxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxPPxxxxxxxxxxxxxxxxxxxxxxDxxxSxxxxxDxxxSxxxxxDxxmoxxxxxxxx
+HitCounts
+3
+1
+MovesTaken
+a1 a2 a5 j2 j1  
+D10 I9 B2 D9 F8  
+Peter
+Robot
+Peter a1 Miss.Robot D10 Miss.Peter a2 Hit.Robot I9 Miss.Peter a5 Hit.Robot B2 Hit.Peter j2 Hit.Robot D9 Miss.Peter j1 Miss.Robot F8 Miss.

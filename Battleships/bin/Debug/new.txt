@@ -1,0 +1,13 @@
+1 vs. Robot
+PlayerBoards
+ABoDPmxxxxABSDPmxxxxABSoxxxxxxABxxxxxxxxAmxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxmxxxxxxxxxxxxxx
+mooxxxxxxxxmxxxxxxxxxxxBBBBxxDxAxxxxxxxDxAxxxxxxxDxAmxxxmxxxxAxxxxxxxxxAxxxxxxxxxxxxxSSSxxxxxxxxxxxx
+HitCounts
+2
+2
+MovesTaken
+a1 a2 b2 a3 f3 f7  
+B6 A6 E2 C4 A3 I6  
+1
+Robot
+1 a1 Miss.Robot B6 Miss.1 a2 Hit.Robot A6 Miss.1 b2 Miss.Robot E2 Miss.1 a3 Hit.Robot C4 Hit.1 f3 Miss.Robot A3 Hit.1 f3 Miss.Robot I6 Miss.

@@ -1,0 +1,10 @@
+Peter vs. Johnny
+PlayerBoards
+AooDPxxxxxABSDPxxxxxABSDxxxxxxABxxxxxxxxAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxmxxxxxxxxxxxxxxxxxxxxxxxx
+ABSoPxxxxxABSDPxxxxxABSDxxxxxxABxmxxxxxxAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxmx
+HitCounts
+1
+2
+MovesTaken
+a4 j9 d4 
+a3 h6 a2 

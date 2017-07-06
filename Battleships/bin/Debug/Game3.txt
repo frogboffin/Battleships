@@ -1,0 +1,10 @@
+Peter vs. Paul
+PlayerBoards
+xAAoAAxxxxBBBBxxxxxxxxSSSxxxxxxDDDxxxxxxPPxxxxxxxxxxmxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ooSDPxxxxxABSDPxxxxxABSDxxxxxxABxxxxxxxxAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+HitCounts
+2
+1
+MovesTaken
+a1 a2  
+a4 f3 
